@@ -1,4 +1,4 @@
-### Hello there 🤩
+# print("Hello beautiful people 🤩")
 
 I'm a seasoned software engineer with 15 years experience designing and developing web apps and APIs in the context of service oriented architectures, test and deployment automation, CI/CD and data pipelines, and more. 
 
