@@ -4,4 +4,4 @@
 
 bashing computer keyboards since 1995
 
-some people say I'm good at it so  ¯\\_(ツ)_/¯
+some people say I'm good at it so  ¯\\\_(ツ)\_/¯
